@@ -39,6 +39,11 @@ git clone https://github.com/JeevanPandey-dev/js-project-lab.git
 - Vanilla JavaScript (ES6+)
 - HTML/CSS (Tailwind CSS)
 
+## 📋 Project List
+
+Check out the full list of JavaScript projects here:  
+👉 [View projects.md](./projects.md)
+
 ## 🙌 Contributions
 
 This is a personal learning repo, but feel free to fork and build on it. Pull requests are welcome if you're adding enhancements or fixing bugs!
